@@ -12,3 +12,7 @@ Work= Fs= N.m
 
 Power= W/t=Fs/t=Fv
 
+Hardness- Resistance to Abrasion
+
+Toughness- The ability of a material to absorb energy and plastically deform without fracturing.
+
