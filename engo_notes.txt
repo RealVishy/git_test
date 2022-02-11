@@ -16,3 +16,10 @@ Hardness- Resistance to Abrasion
 
 Toughness- The ability of a material to absorb energy and plastically deform without fracturing.
 
+Hardness Testing
+
+Brinell, Vickers and Rockwell 
+
+Impact Testing
+
+Charpy Testing- Pendulum is set to zero and test specimen is placed into the machine. Pendulum is released and hits the specimen and the amount of energy absorbed by the pendulum is measured. Helps show level of plastic deformation of the material. 
