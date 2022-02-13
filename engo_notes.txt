@@ -26,14 +26,3 @@ Charpy Testing- Pendulum is set to zero and test specimen is placed into the mac
 Pendulum is released and hits the specimen and the amount of energy absorbed by the pendulum is measured.
 Helps show level of plastic deformation of the material.
 
-Engineering Materials
-
-Atomic Strucuture
-
-Face centered Cubic(FCC)
-- Additional Atoms are within the faces of the cube
-- Aluminium, easier to form
-
-Body Centered Cubic(BCC)
-- Additional Atoms are within the middle of the cube
-- Steel
