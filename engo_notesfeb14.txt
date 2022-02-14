@@ -18,3 +18,7 @@ Case Hardening- Carbon atoms get drawn into the surface structure of the metal.
 Pearlite 
 Ferrite 
 Cementite
+
+Alloy Steels 
+
+Stainless Steel- If 12% of chromium is added, a film of chromium oxide forms on the surface stopping rust from forming.
